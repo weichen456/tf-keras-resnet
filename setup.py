@@ -28,6 +28,6 @@ setuptools.setup(
             "tests"
         ]
     ),
-    url="https://github.com/broadinstitute/keras-resnet",
+    url="https://github.com/weichen456/tf-keras-resnet",
     version="0.2.0"
 )

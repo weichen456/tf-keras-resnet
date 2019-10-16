@@ -29,5 +29,5 @@ setuptools.setup(
         ]
     ),
     url="https://github.com/weichen456/tf-keras-resnet",
-    version="0.2.0"
+    version="0.3.0"
 )

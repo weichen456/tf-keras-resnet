@@ -7,10 +7,7 @@ keras_resnet.models._time_distributed_2d
 This module implements popular time distributed two-dimensional residual networks.
 """
 
-import keras.backend
-import keras.layers
-import keras.models
-import keras.regularizers
+from tensorflow.python import keras
 
 import keras_resnet.blocks
 import keras_resnet.layers

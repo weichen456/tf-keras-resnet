@@ -1,4 +1,4 @@
-import keras
+from tensorflow.python import keras
 
 
 class BatchNormalization(keras.layers.BatchNormalization):

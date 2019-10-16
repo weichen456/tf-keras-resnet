@@ -7,10 +7,8 @@ keras_resnet.blocks._time_distributed_2d
 This module implements a number of popular time distributed two-dimensional residual blocks.
 """
 
-import keras.layers
-import keras.regularizers
+from tensorflow.python import keras
 
-import keras_resnet.layers
 
 parameters = {
     "kernel_initializer": "he_normal"

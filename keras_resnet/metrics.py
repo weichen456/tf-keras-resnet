@@ -1,4 +1,4 @@
-import keras.metrics
+from tensorflow.python import keras
 
 
 def top_1_categorical_error(y_true, y_pred):

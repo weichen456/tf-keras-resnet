@@ -7,10 +7,7 @@ keras_resnet.models._feature_pyramid_2d
 This module implements popular two-dimensional feature pyramid networks (FPNs).
 """
 
-import keras.backend
-import keras.layers
-import keras.models
-import keras.regularizers
+from tensorflow.python import keras
 
 import keras_resnet.blocks
 import keras_resnet.layers
